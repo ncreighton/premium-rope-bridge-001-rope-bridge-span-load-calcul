@@ -1,0 +1,2 @@
+# premium-rope-bridge-001-rope-bridge-span-load-calcul
+Professional traditional-rope-bridges Notion template — without the professional price tag.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Rope Bridge Span &amp; Load Calculator — fully configured and ready to use - Pre
